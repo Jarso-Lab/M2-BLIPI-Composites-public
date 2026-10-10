@@ -2,7 +2,7 @@
 
 ### Do biologically motivated metabolic scores carry prognostic information in Burkitt lymphoma?
 
-This repository is the public home of the composite-score study within the M2-BLAIPI
+This repository is the public home of the composite-score study within the M2-BLIPI
 research program at Johns Hopkins University. It currently describes the project only.
 **Code and data are not released yet and will be made available when the research is
 published.**
@@ -18,7 +18,7 @@ cannot reflect the biological differences between tumors. Genomic studies have s
 divides into distinct genetic subgroups (DGG-BL, IC-BL, Q53-BL) with different oncogenic
 drivers, and tumor metabolism is one downstream layer where that biology becomes measurable.
 
-The M2-BLAIPI program asks whether metabolic pathway activity, inferred from gene expression
+The M2-BLIPI program asks whether metabolic pathway activity, inferred from gene expression
 and anchored to genomic subgroups, adds prognostic signal beyond the clinical baseline.
 
 ## This study
@@ -56,9 +56,9 @@ have to be shown to be trustworthy. This study tests them directly.
 
 Results are not reported here until they have been peer reviewed.
 
-## Relationship to M2-BLAIPI
+## Relationship to M2-BLIPI
 
-M2-BLAIPI is the broader research program, whose long-term goal is a biologically informed
+M2-BLIPI is the broader research program, whose long-term goal is a biologically informed
 risk score for Burkitt lymphoma. This repository covers the composite-score study only.
 Other parts of the program are maintained in separate repositories.
 

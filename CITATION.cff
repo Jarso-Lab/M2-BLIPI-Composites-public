@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you refer to this project, please cite it using these metadata."
-title: "M2-BLAIPI Composites: composite metabolic scores for risk stratification in Burkitt lymphoma"
+title: "M2-BLIPI Composites: composite metabolic scores for risk stratification in Burkitt lymphoma"
 abstract: >-
-  A study within the M2-BLAIPI research program testing whether literature-derived
+  A study within the M2-BLIPI research program testing whether literature-derived
   composite metabolic scores, inferred from transcriptomic data, carry prognostic
   information in Burkitt lymphoma beyond established clinical prognostic tools.
   Code and data will be released on publication.
