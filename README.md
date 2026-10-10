@@ -1,4 +1,4 @@
-# M2-BLAIPI Composites
+# M2-BLIPI Composites
 
 ### Do biologically motivated metabolic scores carry prognostic information in Burkitt lymphoma?
 
