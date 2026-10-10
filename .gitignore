@@ -1,0 +1,18 @@
+# This repository holds a project overview only until publication.
+# Keep code, data, and results out of it.
+data/
+*.parquet
+*.csv
+*.tsv
+*.xlsx
+*.pdf
+*.ipynb
+*.py
+*.R
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
